@@ -1,7 +1,11 @@
 # Anastasia Petrova 
 
 ### iOS Engineer 👩‍💻
-[anastasia.iosdev@gmail.com](anastasia.iosdev@gmail.com)
+
+---
+* Email: [anastasia.iosdev@gmail.com](mailto:anastasia.iosdev@gmail.com)
+* Skype: [anastasia.iosdev@gmail.com](https://join.skype.com/invite/eqXDgJDgSNi3)
+* Telegram: [@anastasiaiosdev](https://t.me/anastasiaiosdev)
 
 ---
 
