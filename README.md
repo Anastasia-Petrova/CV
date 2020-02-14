@@ -7,13 +7,17 @@
 * Skype: [anastasia.iosdev@gmail.com](https://join.skype.com/invite/eqXDgJDgSNi3)
 * Telegram: [@anastasiaiosdev](https://t.me/anastasiaiosdev)
 
+Based in London, UK.
+
+**Can work remotely.**
+
 ---
 
 I build iOS apps and write Swift libraries. I love OSS and try to put all my stuff on GitHub, where you are most likely reading this. 
 
 I spend a lot of time learning new skills. Currently, I'm invested into *Functional Programming*, *Image processing*, *Unit Testing* and *Application Architecture*.
 
-**I'm open to job opportunities**. If you are a recruiter or hiring manager or just want to refer me to your company - feel free to reach out!
+**I'm open to job opportunities**. If you are a recruiter or hiring manager or just want to refer me to your company - feel free to reach out! 
 
 ---
 
