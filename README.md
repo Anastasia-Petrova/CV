@@ -33,6 +33,15 @@ I spend a lot of time learning new skills. Currently, I'm invested into *Functio
 * `CoreData` (beginner)
 * Functional Programming (beginner)
 
+## Employment history
+
+![img](https://i.imgur.com/bNgEOkD.png) [e9ine](https://www.linkedin.com/company/e9ine/)
+
+ **iOS Engineer** - Full-time (May 2020 - Now)
+ 
+ Working on a greenfield SwiftUI and Combine application for Business Media Outlet.
+
+
 ## Projects
 
 
