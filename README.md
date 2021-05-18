@@ -78,9 +78,6 @@ Open source library that makes life with CoreData easier.
 |Organization | Certificate | Credentials |
 :-: | --- | :-: |
 ![img](https://i.imgur.com/P2cYqCX.jpg)| [iOS Developer Nanodegree Program](https://www.udacity.com/course/ios-developer-nanodegree--nd003) | [Credential](https://confirm.udacity.com/NPNN4G3)
-![img](https://i.imgur.com/MU8kQGS.png)| [Apple iOS 7 Development](https://www.brainbench.com/testcenter/taketest/Apple-iOS-7-Development/3297) |  [Credential](https://www.brainbench.com/xml/bb/transcript/public/viewtranscript.xml?pid=14255377) 
-![img](https://i.imgur.com/Zv2qeeT.png)  | [Swift 5: Protocol-Oriented Programming](http://www.linkedin.com/learning/swift-5-protocol-oriented-programming) | Not Provided
-![img](https://i.imgur.com/d7FVRFX.png)|  [iOS 13 & Swift 5 - Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) | In Progress...
 
 ## University Education
 
